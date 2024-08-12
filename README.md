@@ -8,7 +8,7 @@ hydrogen-based energy system. In addition to the physical energy system in the G
 a simulation model is being developed. This model depicts the energy system with its subsystems and enables
 to simulate different load profiles and operating strategies.
 
-For more information please visit: https://co2inno.com/ or visit our homepage
+For more information please visit: https://co2inno.com/ or visit our homepage https://www.h-ka.de/en/ikku/gas-engine-technology
 
 
 ## Task of the project:
