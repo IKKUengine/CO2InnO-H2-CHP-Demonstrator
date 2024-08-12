@@ -1,5 +1,7 @@
 # Modelling-of-hydrogen-energy-system
+This model was developed as part of the CO2InnO project, which was financed by Interreg co. 
 
+This simulation model demonstrates the application of a decentralised hydrogen-based energy system with a gas engine CHP and local hydrogen production.
 ## Background to the project topic:
 
 As part of the cross-border CO2InnO project, the GenLab research centre at Karlsruhe University of Applied Sciences is working
